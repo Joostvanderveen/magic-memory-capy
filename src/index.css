@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Luckiest+Guy&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* base styles */
+body {
+  margin: 0;
+  font-family: "Luckiest Guy", cursive;
+  font-size: 1.8em;
+  text-align: center;
+  background: #5c7234;
+  color: #49350a;
+}

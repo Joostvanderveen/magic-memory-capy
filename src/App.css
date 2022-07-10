@@ -1,0 +1,28 @@
+.App {
+  max-width: 860px;
+  margin: 0px auto;
+}
+button {
+  background: none;
+  border: 2px solid #fff;
+  padding: 6px 12px;
+  margin: 10px 0px;
+  border-radius: 4px;
+  color: #fff;
+  cursor: pointer;
+  font-size: 0.8em;
+  font-family: "Luckiest Guy", cursive;
+}
+
+button:hover {
+  background: #49350a;
+  color: #fff;
+  transition: all ease-in-out 200ms;
+}
+
+.card-grid {
+  margin-top: 40px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-gap: 20px;
+}
